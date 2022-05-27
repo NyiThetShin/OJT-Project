@@ -91,7 +91,7 @@ i{
 /* slider start  */
 
     .slider_main {
-       background-image: url(slider1.jpg);
+       background-image: url(./sliderImages/slider1.jpg);
         height: 60vh;
         width: 100%;
         display: flex;
@@ -416,7 +416,7 @@ i:hover{
 /* about page start */
 
 .about_page_container{
-    background: url(slider3.jpg);
+    background: url(./aboutImage/about.jpg);
     background-size: cover;
     background-position:center;
     background-repeat: no-repeat;
